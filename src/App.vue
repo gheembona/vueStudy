@@ -1,9 +1,9 @@
 <template>
-  <div id="app">
+  <div id="app1">
     <img width="25%" src="./assets/logo.png">
-    <HelloWorld msg="Hello Vue in CodeSandbox!" />
+    <HelloWorld msg="Hello Vue in CodeSandbox!"/>
   </div>
-</template>
+</template> 
 
 <script>
 import HelloWorld from "./components/HelloWorld";
